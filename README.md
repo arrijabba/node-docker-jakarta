@@ -1,2 +1,1 @@
-# node-docker-jakarta
-node-docker-jakarta
+### Tezos Node standalone
